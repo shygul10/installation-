@@ -6,4 +6,4 @@ sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
 sudo systemctl start jenkins
 sudo systemctl status jenkins
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-
+this is installation 
